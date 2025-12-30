@@ -1,0 +1,7 @@
+gradio
+pandas
+numpy
+requests
+sentence-transformers
+faiss-cpu
+groq
